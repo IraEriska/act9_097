@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/ACT6/app/src/main/res/layout/activity_edit_teman.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ACT6/app/src/main/res/layout/activity_edit_teman2.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/ACT6/app/src/main/res/layout/activity_main.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ACT6/app/src/main/res/layout/activity_tambah_teman.xml" value="0.14492753623188406" />
         <entry key="..\:/Users/user/AndroidStudioProjects/ACT6/app/src/main/res/layout/activity_teman_baru.xml" value="0.11639492753623189" />
         <entry key="..\:/Users/user/AndroidStudioProjects/ACT6/app/src/main/res/layout/row_data_teman.xml" value="0.11639492753623189" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/ACT6/app/src/main/res/menu/menu.xml" value="0.1" />
       </map>
     </option>
   </component>
